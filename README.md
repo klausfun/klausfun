@@ -8,6 +8,20 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-18171C?style=for-the-badge&logo=telegram)](https://t.me/Artem_Nemurov)
 
-Langueges and Tools
-
 ### Tech stack
+🖥️ Languages
+
+![C++](https://img.shields.io/badge/-C++-603187?style=for-the-badge&logo=C%2b%2b)
+![C](https://img.shields.io/badge/-C-603187?style=for-the-badge&logo=C)
+![Go](https://img.shields.io/badge/-Go-603187?style=for-the-badge&logo=Go)
+![Python](https://img.shields.io/badge/-Python-603187?style=for-the-badge&logo=Python)
+![ASM](https://img.shields.io/badge/-ASM-603187?style=for-the-badge&logo=assembler)
+![JavaScript](https://img.shields.io/badge/-JS-603187?style=for-the-badge&logo=JavaScript)
+![html/css](https://img.shields.io/badge/-html/css-603187?style=for-the-badge&logo=html)
+
+🌐 Other
+
+![vue.js](https://img.shields.io/badge/-vue.js-24226D?style=for-the-badge&logo=vue.js)
+![docker](https://img.shields.io/badge/-docker-24226D?style=for-the-badge&logo=docker)
+![mysql](https://img.shields.io/badge/-mysql-24226D?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-24226D?style=for-the-badge&logo=postgresql)
