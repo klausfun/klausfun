@@ -6,7 +6,8 @@
 <!--Fun fact: Некоторые разработчики шутят, что название языка Go происходит от того, что каждый раз, когда программа в нем впадает в панику, разработчики бегут "Go, go, go!" искать баги. -->
 ### Connect with me:
 
+[![Telegram](https://img.shields.io/badge/-Telegram-18171C?style=for-the-badge&logo=telegram)](https://t.me/Artem_Nemurov)
 
 Langueges and Tools
 
-Follow Me
+### Tech stack
