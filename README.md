@@ -25,3 +25,7 @@
 ![docker](https://img.shields.io/badge/-docker-24226D?style=for-the-badge&logo=docker)
 ![mysql](https://img.shields.io/badge/-mysql-24226D?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-24226D?style=for-the-badge&logo=postgresql)
+
+![Klausfun GitHub stats](https://github-readme-stats.vercel.app/api?username=klausfun&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Klausfun&theme=radical)](https://git.io/streak-stats)
