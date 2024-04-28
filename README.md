@@ -1,22 +1,12 @@
 ## Hi, I'm Nemurov Artem
 
-Pattern
+- 🔭 I’m currently working on [ToDo_project](https://github.com/klausfun/ToDo_project)
+- 🌱 I’m currently learning Golang programming language
+- ⚡ Fun fact: There is a tradition in the Go community to provide "first aid" to a program in a panic by offering it a cup of hot coffee and cookies in the hope of calming it down.
+<!--Fun fact: Некоторые разработчики шутят, что название языка Go происходит от того, что каждый раз, когда программа в нем впадает в панику, разработчики бегут "Go, go, go!" искать баги. -->
+### Connect with me:
+
 
 Langueges and Tools
 
 Follow Me
-
-<!--
-**klausfun/klausfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
