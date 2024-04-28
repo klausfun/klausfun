@@ -1,6 +1,4 @@
-Header
-
-About me
+## Hi, I'm Nemurov Artem
 
 Pattern
 
