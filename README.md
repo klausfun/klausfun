@@ -27,6 +27,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-24226D?style=for-the-badge&logo=postgresql)
 ![Postman](https://img.shields.io/badge/-Postman-24226D?style=for-the-badge&logo=Postman)
 ![YandexCloud](https://img.shields.io/badge/-YandexCloud-24226D?style=for-the-badge&logo=YandexCloud)
+![Redis](https://img.shields.io/badge/-Redis-24226D?style=for-the-badge&logo=Redis)
+![JMeter](https://img.shields.io/badge/-JMeter-24226D?style=for-the-badge&logo=apacheJMeter)
 
 ![Klausfun GitHub stats](https://github-readme-stats.vercel.app/api?username=klausfun&show_icons=true&theme=radical)
 
