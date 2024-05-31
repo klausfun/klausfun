@@ -11,23 +11,26 @@
 ### Tech stack
 🖥️ Languages
 
-![C++](https://img.shields.io/badge/-C++-603187?style=for-the-badge&logo=C%2b%2b)
-![C](https://img.shields.io/badge/-C-603187?style=for-the-badge&logo=C)
-![Go](https://img.shields.io/badge/-Go-603187?style=for-the-badge&logo=Go)
-![Python](https://img.shields.io/badge/-Python-603187?style=for-the-badge&logo=Python)
-![ASM](https://img.shields.io/badge/-ASM-603187?style=for-the-badge&logo=assembler)
-![JavaScript](https://img.shields.io/badge/-JS-603187?style=for-the-badge&logo=JavaScript)
-![html/css](https://img.shields.io/badge/-html/css-603187?style=for-the-badge&logo=html)
+![C++](https://img.shields.io/badge/-C++-a52cd1?style=for-the-badge&logo=C%2b%2b)
+![C](https://img.shields.io/badge/-C-a52cd1?style=for-the-badge&logo=C)
+![Go](https://img.shields.io/badge/-Go-a52cd1?style=for-the-badge&logo=Go)
+![Python](https://img.shields.io/badge/-Python-a52cd1?style=for-the-badge&logo=Python)
+![ASM](https://img.shields.io/badge/-ASM-a52cd1?style=for-the-badge&logo=assembler)
+![JavaScript](https://img.shields.io/badge/-JS-a52cd1?style=for-the-badge&logo=JavaScript)
+![html/css](https://img.shields.io/badge/-html/css-a52cd1?style=for-the-badge&logo=html)
+
+🏦 Database
+
+![mysql](https://img.shields.io/badge/-mysql-6b2cd1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-6b2cd1?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-6b2cd1?style=for-the-badge&logo=Redis)
 
 🌐 Other
 
 ![vue.js](https://img.shields.io/badge/-vue.js-24226D?style=for-the-badge&logo=vue.js)
 ![docker](https://img.shields.io/badge/-docker-24226D?style=for-the-badge&logo=docker)
-![mysql](https://img.shields.io/badge/-mysql-24226D?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-24226D?style=for-the-badge&logo=postgresql)
 ![Postman](https://img.shields.io/badge/-Postman-24226D?style=for-the-badge&logo=Postman)
 ![YandexCloud](https://img.shields.io/badge/-YandexCloud-24226D?style=for-the-badge&logo=YandexCloud)
-![Redis](https://img.shields.io/badge/-Redis-24226D?style=for-the-badge&logo=Redis)
 ![JMeter](https://img.shields.io/badge/-JMeter-24226D?style=for-the-badge&logo=apacheJMeter)
 
 ![Klausfun GitHub stats](https://github-readme-stats.vercel.app/api?username=klausfun&show_icons=true&theme=radical)
