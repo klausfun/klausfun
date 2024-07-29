@@ -1,6 +1,6 @@
 ## Hi, I'm Nemurov Artem
 
-- 🔭 I’m currently working on [Augventure](https://github.com/klausfun/Augventure) and [Emegency notification system](https://github.com/klausfun/Emegency-notification-system)
+- 🔭 I’m currently working on [Emegency notification system](https://github.com/klausfun/Emegency-notification-system)
 - 🌱 I’m currently learning Golang programming language
 - ⚡ Fun fact: There is a tradition in the Go community to provide "first aid" to a program in a panic by offering it a cup of hot coffee and cookies in the hope of calming it down.
 <!--Fun fact: Некоторые разработчики шутят, что название языка Go происходит от того, что каждый раз, когда программа в нем впадает в панику, разработчики бегут "Go, go, go!" искать баги. -->
@@ -32,6 +32,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-24226D?style=for-the-badge&logo=Postman)
 ![YandexCloud](https://img.shields.io/badge/-YandexCloud-24226D?style=for-the-badge&logo=YandexCloud)
 ![JMeter](https://img.shields.io/badge/-JMeter-24226D?style=for-the-badge&logo=apacheJMeter)
+![GraphQL](https://img.shields.io/badge/-GraphQL-24226D?style=for-the-badge&logo=GraphQL)
 
 ![Klausfun GitHub stats](https://github-readme-stats.vercel.app/api?username=klausfun&show_icons=true&theme=radical)
 
