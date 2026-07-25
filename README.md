@@ -7,7 +7,9 @@
 ### Connect with me:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-18171C?style=for-the-badge&logo=telegram)](https://t.me/Artem_Nemurov)
+
 Немуров Артём Евгеньевич
+
 ИНН 772401366761
 
 ### Tech stack
