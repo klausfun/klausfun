@@ -1,43 +1,52 @@
-## Hi, I'm Nemurov Artem
+# Немуров Артём Евгеньевич
 
-- 🔭 I’m currently working on [Emegency notification system](https://github.com/klausfun/Emegency-notification-system)
-- 🌱 I’m currently learning Golang programming language
-- ⚡ Fun fact: There is a tradition in the Go community to provide "first aid" to a program in a panic by offering it a cup of hot coffee and cookies in the hope of calming it down.
-<!--Fun fact: Некоторые разработчики шутят, что название языка Go происходит от того, что каждый раз, когда программа в нем впадает в панику, разработчики бегут "Go, go, go!" искать баги. -->
-### Connect with me:
+**Разработка сайтов, Telegram-ботов и автоматизация рабочих процессов.**
 
-[![Telegram](https://img.shields.io/badge/-Telegram-18171C?style=for-the-badge&logo=telegram)](https://t.me/Artem_Nemurov)
+Москва · самозанятый (плательщик налога на профессиональный доход) · ИНН 772401366761
 
-Немуров Артём Евгеньевич
+Беру техническую задачу и довожу до работающего результата — со сроками, этапами и приёмкой. Работаю по договору, чек через «Мой налог».
 
-ИНН 772401366761
+**Услуги и примеры работ:** https://mysite-pi-three.vercel.app
+**Почта:** artem.nemurov451@gmail.com
+**Telegram:** [@Artem\_Nemurov](https://t.me/Artem_Nemurov)
 
-### Tech stack
-🖥️ Languages
+---
 
-![C++](https://img.shields.io/badge/-C++-a52cd1?style=for-the-badge&logo=C%2b%2b)
-![C](https://img.shields.io/badge/-C-a52cd1?style=for-the-badge&logo=C)
-![Go](https://img.shields.io/badge/-Go-a52cd1?style=for-the-badge&logo=Go)
-![Python](https://img.shields.io/badge/-Python-a52cd1?style=for-the-badge&logo=Python)
-![ASM](https://img.shields.io/badge/-ASM-a52cd1?style=for-the-badge&logo=assembler)
-![JavaScript](https://img.shields.io/badge/-JS-a52cd1?style=for-the-badge&logo=JavaScript)
-![html/css](https://img.shields.io/badge/-html/css-a52cd1?style=for-the-badge&logo=html)
+## Услуги
 
-🏦 Database
+| Направление | Что входит | Стоимость |
+| --- | --- | --- |
+| **Сайты и лендинги** | Одностраничники, многостраничные сайты, веб-приложения. Адаптивная вёрстка, формы, аналитика, публикация, настройка домена | от 30 000 ₽ |
+| **Telegram-боты и мини-приложения** | Боты для приёма заявок, учёта, розыгрышей, приёма оплаты. Интеграции с таблицами и платёжными системами | от 35 000 ₽ |
+| **Автоматизация процессов** | Перенос данных между сервисами, генерация документов и этикеток, регулярные отчёты по расписанию | от 25 000 ₽ |
+| **Монтаж коротких видео** | Reels и Shorts из длинного видео: нарезка, субтитры, оформление | от 2 000 ₽ за ролик |
 
-![mysql](https://img.shields.io/badge/-mysql-6b2cd1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-6b2cd1?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-6b2cd1?style=for-the-badge&logo=Redis)
+Стек подбираю под задачу, а не задачу под стек.
 
-🌐 Other
+## Как проходит работа
 
-![vue.js](https://img.shields.io/badge/-vue.js-24226D?style=for-the-badge&logo=vue.js)
-![docker](https://img.shields.io/badge/-docker-24226D?style=for-the-badge&logo=docker)
-![Postman](https://img.shields.io/badge/-Postman-24226D?style=for-the-badge&logo=Postman)
-![YandexCloud](https://img.shields.io/badge/-YandexCloud-24226D?style=for-the-badge&logo=YandexCloud)
-![JMeter](https://img.shields.io/badge/-JMeter-24226D?style=for-the-badge&logo=apacheJMeter)
-![GraphQL](https://img.shields.io/badge/-GraphQL-24226D?style=for-the-badge&logo=GraphQL)
+1. **Обсуждаем задачу** — фиксирую объём, срок и цену до начала работы
+2. **Договор и предоплата**
+3. **Делаю по этапам** — показываю промежуточные версии, видно прогресс
+4. **Приёмка** — сдаю результат, вношу правки в рамках задачи
 
-![Klausfun GitHub stats](https://github-readme-stats.vercel.app/api?username=klausfun&show_icons=true&theme=radical)
+Работаю удалённо. Срок — от 3 дней до 6 недель в зависимости от объёма.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Klausfun&theme=radical)](https://git.io/streak-stats)
+## Проекты
+
+**Shorts Factory** — система автоматического производства коротких видео. *В разработке.*
+Пайплайн полного цикла: длинное видео → транскрипция речи → отбор сильных фрагментов языковой моделью → автомонтаж вертикального ролика (FFmpeg) → публикация через YouTube API → сбор аналитики по опубликованному. Задача — заменить ручную нарезку шортсов, которая упирается в людей и не масштабируется: монтажёр делает несколько роликов за день, пайплайн — партию за прогон и значительно дешевле. Конфигурация канала (критерии отбора, стиль, брендинг) отделена от ядра, чтобы систему можно было переносить на другие каналы без переписывания.
+
+**Дашборд целей «12 недель»** — fullstack-приложение для трекинга целей и привычек по методике «12 недель в году». FastAPI + React/TypeScript + PostgreSQL, отдельный Telegram-worker для напоминаний и сбора статистики канала, разворачивается в Docker. Слои домена, инфраструктуры и API разделены, схема БД ведётся миграциями.
+
+**Трекер участников** — веб-приложение для учёта участников группы и посещаемости: список, статусы, отметки о посещениях, админка, база в облаке. Работает в реальной группе.
+
+**Генератор этикеток** — инструмент для селлеров Wildberries и Ozon: из таблицы товаров собирает готовые этикетки на печать вместо ручного оформления каждой позиции.
+
+**Сайт аренды медтехники** ([ormart.ru](https://ormart.ru)) — сайт-визитка для аренды реабилитационных аппаратов: услуги, цены, приём заявок.
+
+---
+
+### О репозиториях
+
+Код клиентских и коммерческих проектов не публикую — по договорённости с заказчиками. Публичные репозитории здесь — учебные и личные: сервисы на Go (REST API, хранилище документов, in-memory база, обработка очередей сообщений), задачи на C++ и Python.
